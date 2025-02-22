@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1740242309173" clover="3.2.0">
-  <project timestamp="1740242309173" name="All files">
+<coverage generated="1740243428973" clover="3.2.0">
+  <project timestamp="1740243428973" name="All files">
     <metrics statements="10" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2" elements="15" coveredelements="11" complexity="0" loc="10" ncloc="10" packages="1" files="2" classes="2"/>
     <file name="app.js" path="/Users/mariojorge/Desktop/Projetos/git-actions/node-ci-pipeline/src/app.js">
       <metrics statements="9" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
