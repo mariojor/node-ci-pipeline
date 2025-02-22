@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
-  "scripts": {
-    "test": "jest"
+ "scripts": {
+  "test": "jest --coverage"
   },
   "keywords": [],
   "author": "",
